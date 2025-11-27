@@ -1,0 +1,73 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build output
+out/
+build/
+dist/
+target/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# Log files
+*.log
+*.log.*
+
+# IDE and System files
+Thumbs.db
+.gradle/
+
+# Database files
+*.db
+*.sqlite
+*.sql
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Node modules (if any)
+node_modules/
+
+# Package files
+*.zip
+*.tar.gz
+
+# Environment files
+.env
+.env.local
